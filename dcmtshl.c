@@ -50,8 +50,8 @@ int _splitstringYSF(char *YsfnStr)
 }
 /**
 * _strYSF - int KAMELINE MAIN
-* @YsfSt1:  MAIN parametre 
-* @YsfSt2:  parametre 
+* @YsfSt1:  MAIN parametre
+* @YsfSt2:  parametre
 * Return: int chi HAJA
 */
 int _strYSF(const char *YsfSt1, const char *YsfSt2)
